@@ -12,7 +12,7 @@
     * [环境配置要求](articles/product/3-/configurations.md)
     * [配置向导](articles/product/3-/guide.md)
     * [授权说明](articles/product/3-/authorize.md)
-    * [授权说明](articles/product/3-/authorize.md)
+    * [卸载及常见问题](articles/product/3-/unload.md)
 
 
 
