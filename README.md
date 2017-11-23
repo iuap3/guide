@@ -12,7 +12,7 @@ https://pan.baidu.com/s/1mh5Bvny
 
 # API接口编写与规范
 
-* [API接口编写与规范](articles/api/guide.md)
+* [API接口编写与规范](articles/API/guide.md)
 
 # 文档目录格式说明
 
