@@ -10,6 +10,10 @@ https://pan.baidu.com/s/1mh5Bvny
 
 * [文档编写流程与规范](articles/1-/guide.md)
 
+# API接口编写与规范
+
+* [API接口编写与规范](articles/api/guide.md)
+
 # 文档目录格式说明
 
 ![](/articles/1-/images/catalog.png)
