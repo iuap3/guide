@@ -6,7 +6,7 @@
     * [应用场景](articles/product/1-/scenarios.md)
     * [基础架构](articles/product/1-/structure.md)
 * [版本更新](articles/product/2-/)
-    * [版本更新](articles/product/2-/version_update)
+    * [版本更新](articles/product/2-/version_update.md)
 * [安装与配置（环境说明）](articles/product/3-/)
     * [配置流程](articles/product/3-/process.md)
     * [环境配置要求](articles/product/3-/configurations.md)
@@ -19,6 +19,27 @@
 * [用户手册](articles/product/5-/)
     * [产品登录](articles/product/5-/login.md)
     * [用户管理](articles/product/5-/users.md)
+	* [功能节点](articles/product/5-/nodes.md)
+	* [操作步骤](articles/product/5-/steps.md)
+	* [注意事项](articles/product/5-/notes.md)
+* [开发指南](articles/product/6-/)
+	* [概述](articles/product/6-/overview.md)
+	* [整体设计](articles/product/6-/design.md)
+	* [使用说明](articles/product/6-/instructions.md)
+	* [代码示例](articles/product/6-/codes.md)
+* [API参考](articles/product/7-/)
+	* [新增接口](articles/product/7-/new_interface.md)
+	* [调整、覆盖接口](articles/product/7-/adjust_interface.md)
+	* [API接口](articles/product/7-/api_interface.md)
+* [常见问题](articles/product/8-/)
+	* [用户场景](articles/product/8-/user_scenarios.md)
+	* [功能问题](articles/product/8-/functions.md)
+* [视频课程](articles/product/9-/)
+	* [视频课程](articles/product/9-/video.md)
+* [最佳实践](articles/product/10-/)
+	* [最佳实践](articles/product/10-/practices.md)
+
+	
 
 
 
