@@ -6,7 +6,7 @@
     * [应用场景](articles/product/1-/scenarios.md)
     * [基础架构](articles/product/1-/structure.md)
 * [版本更新](articles/product/2-/)
-    * [版本历程](articles/product/2-/version_update.md)
+    * [版本历程](articles/product/2-/version_update.md)
 * [安装与配置（环境说明）](articles/product/3-/)
     * [配置流程](articles/product/3-/process.md)
     * [环境配置要求](articles/product/3-/configurations.md)
