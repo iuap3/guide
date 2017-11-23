@@ -13,8 +13,12 @@
     * [配置向导](articles/product/3-/guide.md)
     * [授权说明](articles/product/3-/authorize.md)
     * [卸载及常见问题](articles/product/3-/unload.md)
-
-
+* [快速入门](articles/product/4-/)
+    * [用户场景一](articles/product/4-/scenario_one.md)
+    * [用户场景二](articles/product/4-/scenario_two.md)
+* [用户手册](articles/product/5-/)
+    * [产品登录](articles/product/5-/login.md)
+    * [用户管理](articles/product/5-/users.md)
 
 
 
